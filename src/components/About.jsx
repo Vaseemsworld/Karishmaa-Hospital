@@ -53,8 +53,8 @@ export default function About() {
                   <p className="text-white/30 text-sm">Hospital Front Photo</p>
                   <p className="text-white/20 text-xs mt-1">[ Replace with actual image ]</p> */}
                   <img
-                    src="./karishmaa-hospital-front.webp"
-                    alt="Hospital Front"
+                    src="./images/fullpicture.webp"
+                    alt="Hospital Picture"
                   />
                 </div>
               </div>
