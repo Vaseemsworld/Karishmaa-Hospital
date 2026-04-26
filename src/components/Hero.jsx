@@ -48,7 +48,7 @@ export default function Hero() {
           >
             <span className="live-dot w-2 h-2 rounded-full bg-[#00C9A7] inline-block" />
             <span className="text-[#00C9A7] text-sm font-semibold tracking-wide">
-              Alwar's Premier Multi-Speciality Hospital
+              Leading Multi-speciality Hospital in Alwar
             </span>
           </motion.div>
 
